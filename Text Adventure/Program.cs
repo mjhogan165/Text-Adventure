@@ -8,6 +8,7 @@ namespace Text_Adventure
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello Again");
+            Console.WriteLine("OH MYU GOD");
         }
     }
 }
